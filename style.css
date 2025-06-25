@@ -1,0 +1,27 @@
+.content{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px 10px 0px 0px;
+    background-color: blueviolet;
+}
+h1{
+    position: absolute;
+}
+.menu{
+    display: flex;
+    margin-top: 150px;
+    
+}
+
+.btn-add{
+    width: 50px;
+    height: 50px;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
